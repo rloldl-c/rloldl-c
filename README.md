@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=EunbiChoi&height=110&animation=twinkling&fontAlign=50&fontAlignY=53)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=EunbiChoi&desc=Hi,%20there%20👋&height=150&animation=twinkling&fontAlign=50&fontAlignY=55&&descAlignY=80)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=rloldl98)](https://solved.ac/rloldl98)
 
-- ✍ I'm currently learning Python, HTML, CSS, JS
-- ❔ age : 25
-- 👩‍🎓 major : Digital Media
-- 💓 interest : knitting, reading
+# 👍 **Skills**
+#### Tools
+#### Languages
